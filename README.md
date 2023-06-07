@@ -1,3 +1,3 @@
 # Live link of website
 
-## [Check out todod app here](https://todootasks.netlify.app/)
+## [Check out todo app here](https://todootasks.netlify.app/)
