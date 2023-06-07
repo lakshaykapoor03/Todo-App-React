@@ -76,6 +76,7 @@ function App() {
   return (
 
  <div className="App ">
+  <h1 className="text-6xl text-white">Todo App</h1>
         {/* <form action=""> */}
         <form className="mt-10">
           <input
