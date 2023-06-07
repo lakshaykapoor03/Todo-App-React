@@ -1,10 +1,13 @@
+body{
+  background-image: linear-gradient(to right, rgb(132, 0, 255) , rgb(255, 182, 233));
+}
+
 .App{
   display:flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 margin: 5rem;
-
 }
 
 input{

@@ -75,11 +75,11 @@ function App() {
 
   return (
 
- <div className="App">
+ <div className="App ">
         {/* <form action=""> */}
         <form className="mt-10">
           <input
-          className=" p-2 outline-none  bg-gray-200"
+          className=" p-2 outline-none  bg-gray-200 rounded"
             type="text"
             name=""
             id=""
